@@ -1,0 +1,16 @@
+c:\users\zpay\documents\visual studio 2013\Projects\Gesture_Recognition\Gesture_Recognition\bin\Debug\Gesture_Recognition.exe.config
+c:\users\zpay\documents\visual studio 2013\Projects\Gesture_Recognition\Gesture_Recognition\bin\Debug\Gesture_Recognition.exe
+c:\users\zpay\documents\visual studio 2013\Projects\Gesture_Recognition\Gesture_Recognition\bin\Debug\Gesture_Recognition.pdb
+c:\users\zpay\documents\visual studio 2013\Projects\Gesture_Recognition\Gesture_Recognition\obj\Debug\Gesture_Recognition.Form1.resources
+c:\users\zpay\documents\visual studio 2013\Projects\Gesture_Recognition\Gesture_Recognition\obj\Debug\Gesture_Recognition.Properties.Resources.resources
+c:\users\zpay\documents\visual studio 2013\Projects\Gesture_Recognition\Gesture_Recognition\obj\Debug\Gesture_Recognition.csproj.GenerateResource.Cache
+c:\users\zpay\documents\visual studio 2013\Projects\Gesture_Recognition\Gesture_Recognition\obj\Debug\Gesture_Recognition.exe
+c:\users\zpay\documents\visual studio 2013\Projects\Gesture_Recognition\Gesture_Recognition\obj\Debug\Gesture_Recognition.pdb
+C:\Users\zpay\Documents\Visual Studio 2013\Projects\Gesture_Recognition\Gesture_Recognition\bin\Debug\ZedGraph.dll
+C:\Users\zpay\Documents\Visual Studio 2013\Projects\Gesture_Recognition\Gesture_Recognition\bin\Debug\Emgu.CV.xml
+C:\Users\zpay\Documents\Visual Studio 2013\Projects\Gesture_Recognition\Gesture_Recognition\bin\Debug\Emgu.CV.ML.xml
+C:\Users\zpay\Documents\Visual Studio 2013\Projects\Gesture_Recognition\Gesture_Recognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\zpay\Documents\Visual Studio 2013\Projects\Gesture_Recognition\Gesture_Recognition\bin\Debug\Emgu.Util.xml
+C:\Users\zpay\Documents\Visual Studio 2013\Projects\Gesture_Recognition\Gesture_Recognition\obj\Debug\Gesture_Recognition.csprojAssemblyReference.cache
+C:\Users\zpay\Documents\Visual Studio 2013\Projects\Gesture_Recognition\Gesture_Recognition\obj\Debug\Gesture_Recognition.csproj.CoreCompileInputs.cache
+C:\Users\zpay\Documents\Visual Studio 2013\Projects\Gesture_Recognition\Gesture_Recognition\obj\Debug\Gesture_Recognition.csproj.CopyComplete
